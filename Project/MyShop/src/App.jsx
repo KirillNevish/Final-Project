@@ -36,6 +36,8 @@ import GreyLongSneakers from './components/Pages/AllShoes/AllShoesTemplstes/Grey
 
 import Cart from './components/Pages/ProductCart/Cart';
 
+import CheckoutPage from './components/Pages/Checkout/CheckoutPage';
+
 
 import { Route, Routes} from 'react-router-dom'
 // import { BrowserRouter, Route, Routes, Switch } from 'react-router-dom';
@@ -81,6 +83,8 @@ function App() {
         <Route path="/greylongsneakers" element={<GreyLongSneakers />} />
 
         <Route path="/cart" element={<Cart/>} />
+
+        <Route path="/checkout" element={<CheckoutPage/>} />
 
       </Routes>
     </div>

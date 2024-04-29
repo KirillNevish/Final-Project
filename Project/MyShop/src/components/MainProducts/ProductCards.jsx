@@ -31,13 +31,13 @@ function ProductCards() {
   let BlueTSWithLinesPrice='$27.00'
 //Pants&Shorts
   let BlueLongJeansName='Blue Long Jeans'
-  let BlueLongJeansPrice='$42.99'
+  let BlueLongJeansPrice='$42.00'
 
   let BlueLongShortsName='Blue Long Shorts'
   let BlueLongShortsPrice='$30.00'
 
   let ClassicBrownJeansName='Classic Brown Jeans'
-  let ClassicBrownJeansPrice='$29.99'
+  let ClassicBrownJeansPrice='$29.00'
 //Shoes
 let BlackPinkSneakersName='Black&Pink Sneakers'
 let BlackPinkSneakersPrice='$20.00'

@@ -17,7 +17,7 @@ function UpperClothing() {
     { name: 'Classic Blue T-Shirt with lines', image: shirttwo, price: '$27.00' },
     { name: 'Classic Green T-Shirt with lines', image: shirtthree, price: '$27.00' },
     { name: 'Classic Black T-Shirt', image: shirtfour, price: '$25.00' },
-    { name: 'Grey&Blue T-Shirt', image: shirtfive, price: '$34.99' }
+    { name: 'Grey&Blue T-Shirt', image: shirtfive, price: '$34.00' }
   ];
 
   // Создаем состояние для хранения текста поиска

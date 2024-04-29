@@ -14,7 +14,7 @@ function Shoes() {
     { name: 'Classic Red Sneakers', image: shoeone, price: '$25.00' },
     { name: 'Black&Pink Sneakers', image: shoetwo, price: '$20.00' },
     { name: 'Classic Blue&White Sneakers', image: shoethree, price: '$20.00' },
-    { name: 'Classic Brown&Yellow Sneakers', image: shoefour, price: '$26.99' },
+    { name: 'Classic Brown&Yellow Sneakers', image: shoefour, price: '$26.00' },
     { name: 'Classic Blue&Yellow Sneakers', image: shoefive, price: '$27.00' },
     { name: 'Grey Long Sneakers', image: shoesix, price: '$22.00' }
   ];

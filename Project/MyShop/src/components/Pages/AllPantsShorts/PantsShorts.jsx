@@ -151,10 +151,10 @@ import jeanssix from '../../MainProducts/images/lowerclothing/107198275-jeans-ic
 function PantsShorts(props) {
   // Определяем массив продуктов для шорт и брюк
   const pantsShortsProducts = [
-    { name: 'Blue Long Jeans', image: jeansone, price: '$42.99' },
+    { name: 'Blue Long Jeans', image: jeansone, price: '$42.00' },
     { name: 'Blue Long Shorts', image: jeanstwo, price: '$30.00' },
-    { name: 'Classic Brown Jeans', image: jeansthree, price: '$29.99' },
-    { name: 'Yellow Pants', image: jeansfour, price: '$44.99' },
+    { name: 'Classic Brown Jeans', image: jeansthree, price: '$29.00' },
+    { name: 'Yellow Pants', image: jeansfour, price: '$44.00' },
     { name: 'Classic Blue Pants', image: jeansfive, price: '$40.00' },
     { name: 'Classic Black Jeans', image: jeanssix, price: '$45.00' }
   ];

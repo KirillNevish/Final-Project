@@ -851,21 +851,21 @@ function ClassicBrownJeans() {
                                     className={`fs-5 px-3 border rounded ${selectedButton === 1 ? 'text-bg-secondary' : ''}`}
                                     onClick={() => handleButtonClick(1)}
                                 >
-                                    S — 46-48
+                                    1) S — 46-48
                                 </button>
                                 <button
                                     id={style.buttonAllId}
                                     className={`fs-5 px-3 border rounded ${selectedButton === 2 ? 'text-bg-secondary' : ''}`}
                                     onClick={() => handleButtonClick(2)}
                                 >
-                                    M — 48-50
+                                    2) M — 48-50
                                 </button>
                                 <button
                                     id={style.buttonAllId}
                                     className={`fs-5 px-3 border rounded ${selectedButton === 3 ? 'text-bg-secondary' : ''}`}
                                     onClick={() => handleButtonClick(3)}
                                 >
-                                    L — 50-52
+                                    3) L — 50-52
                                 </button>
                             </div>
                             <div className="d-flex p-2 justify-content-evenly">
@@ -874,21 +874,21 @@ function ClassicBrownJeans() {
                                     className={`fs-5 px-3 border rounded ${selectedButton === 4 ? 'text-bg-secondary' : ''}`}
                                     onClick={() => handleButtonClick(4)}
                                 >
-                                    XL — 52-54
+                                    4) XL — 52-54
                                 </button>
                                 <button
                                     id={style.buttonAllId}
                                     className={`fs-5 px-3 border rounded ${selectedButton === 5 ? 'text-bg-secondary' : ''}`}
                                     onClick={() => handleButtonClick(5)}
                                 >
-                                    XXL — 54-56
+                                    5) XXL — 54-56
                                 </button>
                                 <button
                                     id={style.buttonAllId}
                                     className={`fs-5 px-3 border rounded ${selectedButton === 6 ? 'text-bg-secondary' : ''}`}
                                     onClick={() => handleButtonClick(6)}
                                 >
-                                    3XL – 56- 58
+                                    6) 3XL – 56- 58
                                 </button>
                             </div>
                         </div>
